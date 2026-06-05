@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="function1 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function2 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function3 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function4 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function5 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function6 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function7 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function8 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function9 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function 10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function11 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function12 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function13 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function14 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function15 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function16 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function17 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function18 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function19 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function20 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="functio21 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function22 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function23 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function 24.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function 25.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function 26.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function 27.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function28 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function29 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function30 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function31 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function 32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function 33 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function 34.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function 35.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function 36.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function 37.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function 38.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function 39.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function 40.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 13.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 14.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 15.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 16.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 17.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 18.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 19.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 20.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 21.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 22.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 23.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 24.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 25.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 26.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 27.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 28.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 30.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 31.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 33.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 34.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 35.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 36.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 37.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array 38.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
